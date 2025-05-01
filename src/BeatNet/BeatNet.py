@@ -14,7 +14,7 @@ from BeatNet.log_spect import LOG_SPECT
 import librosa
 import sys
 from BeatNet.model import BDA
-import pyaudio
+# import pyaudio  # dropped to reduce reqs
 import matplotlib.pyplot as plt
 import time
 import threading
