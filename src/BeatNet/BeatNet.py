@@ -15,7 +15,7 @@ import librosa
 import sys
 from BeatNet.model import BDA
 # import pyaudio  # dropped to reduce reqs
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt  # dropped to reduce reqs
 import time
 import threading
 
