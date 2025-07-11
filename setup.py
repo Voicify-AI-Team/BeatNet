@@ -29,7 +29,7 @@ REQUIRED_PACKAGES = [
     ##'pyfftw',
     'madmom',
     'torch',
-    'Matplotlib',
+    #'Matplotlib',
 ]
 
 
